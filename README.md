@@ -5,7 +5,7 @@ NIM  : 312010014<br>
 Kelas : TI.20.B.1<br>
 Matakuliah : Pemograman Web<br>
 
-Pada Lab2Web kali ini kita akan membuat langkah-langkah praktikum lagi.<br>
+Pada Lab3Web kali ini kita akan membuat langkah-langkah praktikum lagi tentang Ordered List, Unordered List dan juga Form.<br>
 
 ## Membuat List HTML
 Pertama kita membuat dokumen HTML nya. <br>
@@ -59,6 +59,7 @@ Pertama kita membuat dokumen HTML nya. <br>
 
 ![Pict](Pict/7.7.style_form.PNG)
 
+<br>
 
 ## Pertanyaan dan Tugas
 - Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection
